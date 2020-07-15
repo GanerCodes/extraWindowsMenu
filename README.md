@@ -1,1 +1,2 @@
 # extraWindowsMenu
+yes
